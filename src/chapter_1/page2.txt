@@ -7,3 +7,5 @@ scary story
 
 
 more story
+
+I am editing page 2 after I commit it.
